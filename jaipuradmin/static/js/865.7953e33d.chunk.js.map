@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/865.7953e33d.chunk.js","mappings":"+KAEe,SAASA,IACtB,OACE,qCAEH,C","sources":["app/components/agentManagement/Addagent.js"],"sourcesContent":["import React from 'react'\n\nexport default function Addagent() {\n  return (\n    <div>Addagent</div>\n  )\n}\n"],"names":["Addagent"],"sourceRoot":""}
